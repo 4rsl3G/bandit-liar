@@ -1,0 +1,27 @@
+{
+  "name": "bandit-liar",
+  "version": "1.0.0",
+  "description": "I AM BANDIT! THIS IS FUN PACKAGE!",
+  "main": "main.js",
+  "scripts": {
+    "test": "bandit-liar"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4rsl3G/bandit-liar.git"
+  },
+  "keywords": [
+    "bandit",
+    "tea",
+    "node",
+    "js",
+    "cloud",
+    "DO"
+  ],
+  "author": "JhodyXD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4rsl3G/bandit-liar/issues"
+  },
+  "homepage": "https://github.com/4rsl3G/bandit-liar#readme"
+}
